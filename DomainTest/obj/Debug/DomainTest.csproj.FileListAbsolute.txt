@@ -1,0 +1,14 @@
+C:\Users\sdimi\source\repos\DomainTest\DomainTest\bin\Debug\DomainTest.exe.config
+C:\Users\sdimi\source\repos\DomainTest\DomainTest\bin\Debug\DomainTest.exe
+C:\Users\sdimi\source\repos\DomainTest\DomainTest\bin\Debug\DomainTest.pdb
+C:\Users\sdimi\source\repos\DomainTest\DomainTest\obj\Debug\DomainTest.csprojAssemblyReference.cache
+C:\Users\sdimi\source\repos\DomainTest\DomainTest\obj\Debug\DomainTest.csproj.CoreCompileInputs.cache
+C:\Users\sdimi\source\repos\DomainTest\DomainTest\obj\Debug\DomainTest.exe
+C:\Users\sdimi\source\repos\DomainTest\DomainTest\obj\Debug\DomainTest.pdb
+C:\Projects\SimpleProjects\DomainTest\DomainTest\bin\Debug\DomainTest.exe.config
+C:\Projects\SimpleProjects\DomainTest\DomainTest\bin\Debug\DomainTest.exe
+C:\Projects\SimpleProjects\DomainTest\DomainTest\bin\Debug\DomainTest.pdb
+C:\Projects\SimpleProjects\DomainTest\DomainTest\obj\Debug\DomainTest.csprojAssemblyReference.cache
+C:\Projects\SimpleProjects\DomainTest\DomainTest\obj\Debug\DomainTest.csproj.CoreCompileInputs.cache
+C:\Projects\SimpleProjects\DomainTest\DomainTest\obj\Debug\DomainTest.exe
+C:\Projects\SimpleProjects\DomainTest\DomainTest\obj\Debug\DomainTest.pdb
