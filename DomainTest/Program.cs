@@ -17,7 +17,7 @@ namespace DomainTest
     {
         public ObservableCollectionC()
         {
-
+            // test comment
         }
     }
     class Program
